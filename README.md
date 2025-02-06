@@ -7,6 +7,12 @@
 - 📫 leonardoisaque7878@gmail.com
 - 📫 [linkedin.com/in/leonardo-isaque](https://www.linkedin.com/in/leonardo-isaque/)
 
+##
+💡 "A mente que se abre a um novo conhecimento jamais retorna ao seu estado original." – Albert Einstein
+<br>
+💡 "Não tenha medo de ir devagar, tenha medo de parar." – Proverbio Chinês
+
+
 
 <h3 align="left">Stats</h3>
 
