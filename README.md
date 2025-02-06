@@ -11,7 +11,7 @@
 
 <h2 align="left">Stats</h2>
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardoisaque&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -19,11 +19,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=leonardoisaque&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+
+
 
 <h2 align="left">Techs</h2>
 
-###
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
@@ -35,7 +35,7 @@
 -->  
 
 
-###
+
 
 
 </div>
