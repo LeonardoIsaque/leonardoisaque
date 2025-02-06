@@ -5,7 +5,7 @@
 - 🎯 Objetivo: FullStack foda
 - ⚡ Diversão: Ler e Animes
 - 📫 leonardoisaque7878@gmail.com
-- 📫 linkedin.com/in/leonardo-isaque
+- 📫 [linkedin.com/in/leonardo-isaque](https://www.linkedin.com/in/leonardo-isaque/)
 
 
 <h3 align="left">Stats</h3>
