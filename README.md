@@ -3,7 +3,6 @@
 - 🔭 Profissão: Autônomo
 - 🌱 Estudando: TypeScript
 - 🎯 Objetivo: FullStack foda
-- 😄 Pronomes: ele / dele
 - ⚡ Diversão: Ler e Animes
 - 📫 leonardoisaque36987@gmail.com
 - 📫 linkedin.com/in/leonardo-isaque
