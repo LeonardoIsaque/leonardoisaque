@@ -4,7 +4,7 @@
 - 🌱 Estudando: TypeScript
 - 🎯 Objetivo: FullStack foda
 - ⚡ Diversão: Ler e Animes
-- 📫 leonardoisaque36987@gmail.com
+- 📫 leonardoisaque7878@gmail.com
 - 📫 linkedin.com/in/leonardo-isaque
 
 
