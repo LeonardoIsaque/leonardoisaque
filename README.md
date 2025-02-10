@@ -1,4 +1,4 @@
-# Opa Bão👋
+# Opa Bãoo
 
 - 🔭 Profissão: Autônomo
 - 🌱 Estudando: TypeScript
